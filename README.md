@@ -14,7 +14,7 @@ This repository contains a script to install and set up the `pixelversexyzbot`. 
    Download the `main.sh` file to your local machine using `wget`:
 
    ```sh
-   wget https://raw.githubusercontent.com/Nodejsan/pixelverse/main/main.sh
+   wget https://raw.githubusercontent.com/yapezz99/pixelverse/main/main.sh
    ```
 
 2. **Make the Script Executable**
@@ -102,7 +102,7 @@ To run the bot in the background using `screen`, follow these steps:
 ## Additional Information
 
 - **Channel**: [https://t.me/EOCommunity](https://t.me/EODiscussion)
-- **Credit**: Script created by [Nodejsan](Nodejsan/pixelversexyzbot/)
+- **Credit**: Script created by [Nodejsan](yapezz99/pixelversexyzbot/)
 
 ## License
 
