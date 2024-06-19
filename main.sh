@@ -31,7 +31,7 @@ display_ascii
 
 # Add Channel and Credit
 center_text "$(echo -e '\033[1;32mChannel: https://t.me/EOCommunity\033[0m')"
-center_text "$(echo -e '\033[1;32mCredit: https://github.com/Nodejsan\033[0m')"
+center_text "$(echo -e '\033[1;32mCredit: https://github.com/yapezz99\033[0m')"
 
 # Install screen
 echo -e "\033[1;33mInstalling screen...\033[0m"
@@ -43,7 +43,7 @@ sudo apt install git -y
 
 # Clone repository
 echo -e "\033[1;33mCloning repository...\033[0m"
-git clone https://github.com/Nodejsan/pixelversexyzbot.git
+git clone https://github.com/yapezz99/pixelversexyzbot.git
 
 # Change directory to the cloned repository
 echo -e "\033[1;33mChanging directory to pixelversexyzbot...\033[0m"
